@@ -35,6 +35,14 @@ My business portfolio is available on [michaelesterman.com](https://michaelester
 * bare metal
 * CircleCI, GitLab, GitHub
 
+## What I'm interested in
+
+Currently I'm working on web projects with the mentioned stack.
+
+If you need any help, contact me.
+
+I'm also looking into C and C++ projects for embedded systems.
+
 ## How to reach me
 
 Send me an email on contact@michaelesterman.com
