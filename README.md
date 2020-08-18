@@ -12,6 +12,8 @@ My business portfolio is available on [michaelesterman.com](https://michaelester
 * node.js
 * React
 * Redux
+* Next.js
+* Gatsby
 * GraphQL
 * Jest, Cypress & Puppeteer
 * MongoDb
