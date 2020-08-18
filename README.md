@@ -14,6 +14,7 @@ My business portfolio is available on michaelesterman.com.
 * Redux
 * GraphQL
 * Jest, Cypress & Puppeteer
+* MongoDb
 
 ### Data
 
