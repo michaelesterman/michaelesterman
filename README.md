@@ -1,16 +1,39 @@
-### Hi there 👋
+## Who am I
 
-<!--
-**michaelesterman/michaelesterman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full stack developer, strategist and tech entrepreneur working in Europe.
 
-Here are some ideas to get you started:
+My business portfolio is available on michaelesterman.com.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My stack
+
+### Web
+
+* JavaScript ES6
+* node.js
+* React
+* Redux
+* GraphQL
+* Jest, Cypress & Puppeteer
+
+### Data
+
+* Python 3
+* numpy, pandas, matplotlib
+
+### Environments
+
+* Ubuntu Server, Debian & CentOS
+* microk8s
+* Docker
+
+### CI/CD
+
+* Netlify
+* AWS
+* Azure
+* bare metal
+* CircleCI, GitLab, GitHub
+
+## How to reach me
+
+Send me an email on contact@michaelesterman.com
