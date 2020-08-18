@@ -2,7 +2,7 @@
 
 I'm a full stack developer, strategist and tech entrepreneur working in Europe.
 
-My business portfolio is available on michaelesterman.com.
+My business portfolio is available on [michaelesterman.com](https://michaelesterman.com).
 
 ## My stack
 
