@@ -8,13 +8,14 @@ My business portfolio is available on [michaelesterman.com](https://michaelester
 
 ### Web
 
-* JavaScript ES6
+* JavaScript ES6, TypeScript
 * node.js
 * React
 * Redux
 * Next.js
 * Gatsby
 * GraphQL
+* Apollo, TypeORM
 * Jest, Cypress & Puppeteer
 * MongoDb
 
