@@ -35,6 +35,7 @@ My business portfolio is available on [michaelesterman.com](https://michaelester
 * Netlify
 * AWS
 * Azure
+* Linode, Vultr, Hetzner
 * bare metal
 * CircleCI, GitLab, GitHub
 
