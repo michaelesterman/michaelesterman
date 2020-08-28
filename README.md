@@ -15,9 +15,9 @@ My business portfolio is available on [michaelesterman.com](https://michaelester
 * Next.js
 * Gatsby
 * GraphQL
-* Apollo, TypeORM
+* Apollo, TypeORM, DataLoader
+* MongoDb, PostgreSQL
 * Jest, Cypress & Puppeteer
-* MongoDb
 
 ### Data
 
