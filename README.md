@@ -9,7 +9,7 @@ My business portfolio is available on [michaelesterman.com](https://michaelester
 ### Web
 
 * JavaScript ES6, TypeScript
-* node.js
+* node.js, Deno
 * React
 * Redux
 * Next.js
