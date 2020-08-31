@@ -14,6 +14,7 @@ My business portfolio is available on [michaelesterman.com](https://michaelester
 * Redux
 * Next.js
 * Gatsby
+* Electron
 * GraphQL
 * Apollo, TypeORM, DataLoader
 * MongoDb, PostgreSQL
