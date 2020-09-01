@@ -22,14 +22,14 @@ My business portfolio is available on [michaelesterman.com](https://michaelester
 
 ### Data
 
-* Python 3
-* numpy, pandas, matplotlib
+* [Python 3](https://www.python.org/)
+* [numpy](https://numpy.org/), [pandas](https://pandas.pydata.org/), [matplotlib](https://matplotlib.org/)
 
 ### Environments
 
-* Ubuntu Server, Debian & CentOS
-* microk8s
-* Docker
+* [Ubuntu Server](https://ubuntu.com/), [Debian](https://www.debian.org/) & [CentOS](https://www.centos.org/)
+* [Kubernetes](https://kubernetes.io/), [microk8s](https://microk8s.io/)
+* [Docker](https://www.docker.com/)
 
 ### CI/CD
 
