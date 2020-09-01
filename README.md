@@ -8,17 +8,17 @@ My business portfolio is available on [michaelesterman.com](https://michaelester
 
 ### Web
 
-* JavaScript ES6, TypeScript
-* node.js, Deno
-* React
-* Redux
-* Next.js
-* Gatsby
-* Electron
-* GraphQL
-* Apollo, TypeORM, DataLoader
-* MongoDb, PostgreSQL
-* Jest, Cypress & Puppeteer
+* [JavaScript ES6](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [TypeScript](https://www.typescriptlang.org/)
+* [node.js](https://nodejs.org/en/), [Deno](https://deno.land/)
+* [React](https://reactjs.org/)
+* [Redux](https://redux.js.org/)
+* [Next.js](https://nextjs.org/)
+* [Gatsby](https://www.gatsbyjs.com/)
+* [Electron](https://www.electronjs.org/)
+* [GraphQL](https://graphql.org/)
+* [Apollo](https://www.apollographql.com), [TypeORM](https://github.com/typeorm/typeorm), [DataLoader](https://github.com/graphql/dataloader)
+* [MongoDb](https://www.mongodb.com/), [PostgreSQL](https://www.postgresql.org/)
+* [Jest](https://jestjs.io/), [Cypress](https://www.cypress.io/) & [Puppeteer](https://github.com/puppeteer/puppeteer/)
 
 ### Data
 
