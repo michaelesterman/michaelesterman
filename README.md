@@ -33,12 +33,13 @@ My business portfolio is available on [michaelesterman.com](https://michaelester
 
 ### CI/CD
 
-* Netlify
-* AWS
-* Azure
-* Linode, Vultr, Hetzner
+* [Netlify](https://www.netlify.com/)
+* [AWS](https://aws.amazon.com/)
+* [Azure](https://azure.microsoft.com/en-us/)
+* [Linode](https://www.linode.com/), [Vultr](https://www.vultr.com/), [Hetzner](https://www.hetzner.com/)
+* [Heroku](https://www.heroku.com)
 * bare metal
-* CircleCI, GitLab, GitHub
+* [CircleCI](https://circleci.com/), [GitLab](https://gitlab.com/), [GitHub](https://github.com/)
 
 ## What I'm interested in
 
