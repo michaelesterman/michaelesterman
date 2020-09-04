@@ -12,11 +12,12 @@ My business portfolio is available on [michaelesterman.com](https://michaelester
 * [node.js](https://nodejs.org/en/), [Deno](https://deno.land/)
 * [React](https://reactjs.org/)
 * [Redux](https://redux.js.org/)
+* [Express.js](https://expressjs.com/)
 * [Next.js](https://nextjs.org/)
 * [Gatsby](https://www.gatsbyjs.com/)
 * [Electron](https://www.electronjs.org/)
 * [GraphQL](https://graphql.org/)
-* [Apollo](https://www.apollographql.com), [TypeORM](https://github.com/typeorm/typeorm), [DataLoader](https://github.com/graphql/dataloader)
+* [Apollo](https://www.apollographql.com), [Prisma](https://prisma.io), [TypeORM](https://github.com/typeorm/typeorm), [DataLoader](https://github.com/graphql/dataloader)
 * [MongoDb](https://www.mongodb.com/), [PostgreSQL](https://www.postgresql.org/)
 * [Jest](https://jestjs.io/), [Cypress](https://www.cypress.io/) & [Puppeteer](https://github.com/puppeteer/puppeteer/)
 
