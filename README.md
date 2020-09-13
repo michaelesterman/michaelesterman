@@ -48,7 +48,7 @@ Currently I'm working on web projects with the mentioned stack.
 
 If you need any help or want to exchange knowledge, contact me.
 
-I'm also looking into Nest.js and Vue.js, C and C++ projects for embedded systems.
+I'm also looking into Go and Rust with projects for embedded systems.
 
 ## How to reach me
 
