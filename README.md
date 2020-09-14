@@ -53,7 +53,7 @@ I'm also looking into:
 * C and C++ projects,
 * embedded systems based on ARM Cortex.
 
-Contact me if you need a collaboration.
+Contact me if you need any collaboration.
 
 ## How to reach me
 
