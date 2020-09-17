@@ -20,6 +20,7 @@ My business portfolio is available on [michaelesterman.com](https://michaelester
 * [Apollo](https://www.apollographql.com), [Prisma](https://prisma.io), [TypeORM](https://github.com/typeorm/typeorm), [DataLoader](https://github.com/graphql/dataloader)
 * [MongoDb](https://www.mongodb.com/), [PostgreSQL](https://www.postgresql.org/)
 * [Jest](https://jestjs.io/), [Cypress](https://www.cypress.io/) & [Puppeteer](https://github.com/puppeteer/puppeteer/)
+* [Webpack](https://webpack.js.org/), [Babel](https://babeljs.io/)
 
 ### Data
 
