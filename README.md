@@ -21,6 +21,7 @@ My business portfolio is available on [michaelesterman.com](https://michaelester
 * [MongoDb](https://www.mongodb.com/), [PostgreSQL](https://www.postgresql.org/)
 * [Jest](https://jestjs.io/), [Cypress](https://www.cypress.io/) & [Puppeteer](https://github.com/puppeteer/puppeteer/)
 * [Webpack](https://webpack.js.org/), [Babel](https://babeljs.io/)
+* [Tailwind CSS](https://tailwindcss.com/), [styled-components](https://styled-components.com/), [Bootstrap](https://getbootstrap.com/)
 
 ### Data
 
