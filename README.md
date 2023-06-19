@@ -18,7 +18,7 @@ My projects typically involve the following technologies:
 
 - **Machine Learning:** PyTorch, TensorFlow, Scikit-Learn, Pandas, Numpy
 - **Data Engineering:** Apache Spark, PostgreSQL, Redis
-- **Cloud Computing:** AWS, SageMaker
+- **Cloud Computing:** AWS, SageMaker, Azure AI
 - **Programming Languages:** Python, Java, Scala
 - **Client Side:** React, TypeScript, Node.js
 
