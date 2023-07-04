@@ -1,16 +1,12 @@
 # Hello, 
 
-I'm Michael Esterman, a fintech data solutions leader and engineer.
+I'm Michael Esterman, a big data solutions architect, leader and engineer.
 
-I have a hands-on approach to architecting responsive analytics systems.
+I'm interested in:
 
-I steer teams to turn raw, complex data into insightful, practical information that powers impactful business decisions.
-
-My interests include:
-
-- Using machine learning for risk assessment and customer experience enhancement,
-- Implementing enterprise and public sector governance strategies,
-- Developing transparent and scalable economic solutions for emerging regions.
+- precise ontology-based systems used for impactful decision making,
+- enterprise and public sector governance strategies,
+- scalable and customizable economic solutions for emerging regions.
 
 ## My Tech Stack
 
